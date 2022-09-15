@@ -12,12 +12,4 @@ Welcom to my playground, here is my personal footprints about ðŸ”­programming, ð
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxs1211" /> </div>
  -->
  
-![Metrics](https://metrics.lecoq.io/?template=classic
-&languages=1
-&lines=1
-&notable=1
-&achievements=1
-&base=header, activity, community, repositories, metadata
-&base.indepth=false
-&base.hireable=false
-&base.skip=false)
+![Metrics](https://metrics.lecoq.io/?template=classic&languages=1&lines=1&notable=1&achievements=1&base=header,activity,community,repositories&base.indepth=false&base.hireable=false&base.skip=false)
