@@ -6,7 +6,7 @@ Welcom to my playground, here is my personal footprints about ðŸ”­programming, ð
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxs1211&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-<div align="left"> <img width="200px" src="https://github-profile-trophy.vercel.app/?username=jxs1211" /> </div>
+<div align="left"> <img width="500px" src="https://github-profile-trophy.vercel.app/?username=jxs1211" /> </div>
 
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxs1211" /> </div>
  
