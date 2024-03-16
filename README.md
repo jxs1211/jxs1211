@@ -4,7 +4,7 @@ Welcom to my playground, here is my personal footprints about ðŸ”­programming, ð
 
 #### Who am I?
 - I'm a software developer
-- Senior Programmer in a famous video game company
+- Working as a Programmer for a video game company
 - Self-motivated, mainly interested in cloud-native and AIGC field
 - Certificated swimmer
 - Constantly working out
