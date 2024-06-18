@@ -13,10 +13,8 @@ Welcom to my playground, here is my personal footprints about 🔭programming, �
 #### My (personal) North ⭐ :
 
 - work for a great company and contribute to great open source project
-- Great company
+- Great team
 - Great open source project
-  - Agones
-  - kubeflow
 - work from anywhere
 
 #### Where am I now
