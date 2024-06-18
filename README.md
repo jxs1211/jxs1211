@@ -16,6 +16,7 @@ Welcom to my playground, here is my personal footprints about ðŸ”­programming, ð
 - Great team
 - Great open source project
 - work from anywhere
+- full control of lifetime
 
 #### Where am I now
 
