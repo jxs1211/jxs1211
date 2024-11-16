@@ -13,8 +13,7 @@ Welcom to my playground, here is my personal footprints about 🔭programming, �
 #### My (personal) North ⭐ :
 
 - build great product
-- work from anywhere
-- full control of lifetime
+- build great life
 
 #### Where am I now
 
