@@ -7,16 +7,16 @@ Welcom to my playground, here is my personal footprints about 🔭programming, �
 - I'm a software developer who is passionate about Golang.
 - Self-motivated, mainly interested in cloud-native and AIGC field
 - Swimmer
-- Like drum stuff but haven't tried yet
+- Play Drum(newbee)
 
 #### My (personal) North ⭐ :
 
-- build great product
+- make something people want
 - build great life
 
 #### Where am I now
 
-- AI explorer
+- Life explorer
 - OSS contributor
 
 #### Achievement
