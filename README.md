@@ -4,8 +4,8 @@ Welcom to my playground, here is my personal footprints about ðŸ”­programming, ð
 
 #### Who am I?
 
-- I'm a software developer passionate about Golang.
-- Self-motivated, mainly interested in cloud-native and AIGC field
+- I'm a software developer.
+- Independent Investor
 - Swimmer
 - Play Drum(newbee)
 
